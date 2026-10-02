@@ -28,7 +28,7 @@ About This Course:
 
 ### Setup .env file
 
-```bash
+```bash..
 PORT=5000
 MONGO_URI=your_mongo_uri
 
